@@ -1,0 +1,2 @@
+# newsBulletin
+A news application
